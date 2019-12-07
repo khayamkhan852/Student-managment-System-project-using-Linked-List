@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1528521733 source:c:\users\khaya\desktop\dsa project student managment system\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	"Link_list_Functions.h"
+
+1527825285 c:\users\khaya\desktop\dsa project student managment system\link_list_functions.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+
+1541875851 source:d:\4th all semester\data structure lab\project all files including project\without graphics\dsa project student managment system\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	"Link_list_Functions.h"
+
+1527785686 d:\4th all semester\data structure lab\project all files including project\without graphics\dsa project student managment system\link_list_functions.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+
